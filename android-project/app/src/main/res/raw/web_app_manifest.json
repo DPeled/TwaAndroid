@@ -1,0 +1,28 @@
+{
+  "name": "צ\\'יף",
+  "short_name": "צ\\'יף",
+  "dir": "rtl",
+  "orientation": "any",
+  "start_url": "/",
+  "background_color": "#fff",
+  "theme_color": "#007cbe",
+  "display": "standalone",
+  "description": "Ze tov retazh",
+  "icons": [
+    {
+      "src": "/images/white-chief.ico",
+      "sizes": "32X32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/images/white-chief.png",
+      "sizes": "192X192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/white-chief-512.png",
+      "sizes": "512X512",
+      "type": "image/png"
+    }
+  ]
+}

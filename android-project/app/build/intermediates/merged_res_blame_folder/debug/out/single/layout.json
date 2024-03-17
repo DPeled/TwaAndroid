@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "chief.twa.android.app-mergeDebugResources-66:/layout/activity_info_user.xml",
+        "source": "chief.twa.android.app-main-69:/layout/activity_info_user.xml"
+    },
+    {
+        "merged": "chief.twa.android.app-mergeDebugResources-66:/layout/activity_error.xml",
+        "source": "chief.twa.android.app-main-69:/layout/activity_error.xml"
+    }
+]

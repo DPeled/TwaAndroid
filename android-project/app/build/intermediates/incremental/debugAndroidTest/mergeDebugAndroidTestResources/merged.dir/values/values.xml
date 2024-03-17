@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="enableNotification">true</bool>
+    <bool name="enableSiteSettingsShortcut">true</bool>
+    <color name="backgroundColor">#007cbe</color>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="navigationColor">#000000</color>
+    <color name="navigationColorDark">#000000</color>
+    <color name="navigationDividerColor">#000000</color>
+    <color name="navigationDividerColorDark">#000000</color>
+    <integer name="splashScreenFadeOutDuration">300</integer>
+    <string name="appName" translatable="false">צ\'יף</string>
+    <string name="fallbackType" translatable="false">customtabs</string>
+    <string name="fullScopeUrl" translatable="false">https://chief.np.idf.cts/</string>
+    <string name="generatorApp" translatable="false">bubblewrap-cli</string>
+    <string name="hostName" translatable="false">chief.np.idf.cts</string>
+    <string name="launchUrl" translatable="false">https://chief.np.idf.cts/</string>
+    <string name="launcherName" translatable="false">צ\'יף</string>
+    <string name="orientation" translatable="false">any</string>
+    <string name="providerAuthority" translatable="false">chief.twa.android.fileprovider</string>
+    <string name="webManifestUrl" translatable="false">https://chief.np.idf.cts/manifest.json</string>
+</resources>

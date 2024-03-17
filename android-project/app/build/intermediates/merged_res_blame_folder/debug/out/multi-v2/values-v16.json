@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "chief.twa.android.app-mergeDebugResources-65:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Chief\\.gradle\\caches\\transforms-3\\d4b5cef567f718e2dad0ed3ac7cab92c\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Chief\\.gradle\\caches\\transforms-3\\36079dbc94ead09faa52a1c11452eedc\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

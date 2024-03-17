@@ -1,0 +1,7 @@
+chief.twa.android.test.app-androidTest-0 C:\Users\Chief\Documents\twa\android-project\app\build\generated\res\resValues\androidTest\debug
+chief.twa.android.test.app-androidTest-1 C:\Users\Chief\Documents\twa\android-project\app\build\generated\res\rs\androidTest\debug
+chief.twa.android.test.app-mergeDebugAndroidTestResources-2 C:\Users\Chief\Documents\twa\android-project\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+chief.twa.android.test.app-mergeDebugAndroidTestResources-3 C:\Users\Chief\Documents\twa\android-project\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+chief.twa.android.test.app-merged_res-4 C:\Users\Chief\Documents\twa\android-project\app\build\intermediates\merged_res\debugAndroidTest
+chief.twa.android.test.app-androidTest-5 C:\Users\Chief\Documents\twa\android-project\app\src\androidTest\res
+chief.twa.android.test.app-androidTestDebug-6 C:\Users\Chief\Documents\twa\android-project\app\src\androidTestDebug\res
